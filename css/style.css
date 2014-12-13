@@ -1,0 +1,22 @@
+/* Put your CSS HERE */
+
+[role=main] {
+	padding: 5px;
+	padding-top: 60px;
+}
+
+[role=main] input {
+	margin-bottom: 15px;
+}
+
+[role=main] label {
+	font-size: 3rem;
+}
+
+[role=main] label span {
+	display: block;
+}
+
+p{
+	font-size: 3rem;
+}

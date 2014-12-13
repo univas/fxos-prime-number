@@ -1,0 +1,15 @@
+{
+  "version": "1",
+  "name": "Prime Number Finder",
+  "launch_path": "/index.html",
+  "description": "App to find prime numbers",
+  "icons": {
+    "128": "/images/icon128.png"
+  },
+  "developer": {
+    "name": "Mauro Augusto Soares Rodrigues",
+    "url": "univas.edu.br"
+  },
+  "installs_allowed_from": ["*"],
+  "default_locale": "en"
+}
